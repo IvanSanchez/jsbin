@@ -1,0 +1,1 @@
+web: npm install && grunt build && npm start

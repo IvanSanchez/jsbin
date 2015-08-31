@@ -59,23 +59,5 @@
       }
     ]
   },
-  "twitter": {
-    "title": "Donate to JS Bin ❤",
-    "link": "https://gratipay.com/jsbin",
-    "data": [
-      {
-        "title": "Support JS Bin to keep the project open source & MIT for all",
-        "link": "https://gratipay.com/jsbin"
-      },
-      {
-        "title": "Follow @js_bin on twitter",
-        "link": "https://twitter.com/js_bin"
-      },
-      {
-        "title": "By using JS Bin you agree to our legal terms",
-        "link": "http://jsbin.com/legals"
-      }
-    ]
-  },
-  "quote": "&ldquo;Everyone should learn how to program a computer because it teaches you how to think&rdquo; &mdash; <span class=\"toppanel-quote-author\">Steve Jobs</span>"
+  "quote": ""
 }
