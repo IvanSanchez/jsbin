@@ -1,5 +1,5 @@
 {
-  "env": "development",
+  "env": "production",
   "timezone": "UTC",
   "url": {
     "host": "leaflet-playground.herokuapp.com",

@@ -1,18 +1,26 @@
 var libraries = [
   {
 	'url': [
-		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css',
-		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js'
-		],
-    'label': 'Leaflet 0.7.3',
-    'group': 'Leaflet'
-  },
-  {
-	'url': [
 		'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
 		'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js'
 		],
     'label': 'Leaflet 1.0.0-beta1',
+    'group': 'Leaflet'
+  },
+  {
+	'url': [
+		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
+		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
+		],
+    'label': 'Leaflet 0.7.4',
+    'group': 'Leaflet'
+  },
+  {
+	'url': [
+		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css',
+		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js'
+		],
+    'label': 'Leaflet 0.7.3',
     'group': 'Leaflet'
   },
 
