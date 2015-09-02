@@ -12,7 +12,7 @@
   "version": "3.34.2",
   "preferGlobal": "true",
   "homepage": "http://jsbin.com",
-  "bin": "./bin/jsbin",
+  "bin": "grunt build && ./bin/jsbin",
   "repository": {
     "type": "git",
     "url": "git://github.com/jsbin/jsbin.git"
