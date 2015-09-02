@@ -1,5 +1,13 @@
 var libraries = [
   {
+  'url': [
+    'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.css',
+    'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.js'
+    ],
+    'label': 'Leaflet development version',
+    'group': 'Leaflet'
+  },
+  {
 	'url': [
 		'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
 		'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js'
