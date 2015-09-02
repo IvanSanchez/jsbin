@@ -2,7 +2,7 @@
   "env": "production",
   "timezone": "UTC",
   "url": {
-    "host": "leaflet-playground.herokuapp.com",
+    "host": "",
     "prefix": "/",
     "ssl": false,
     "static": false,
