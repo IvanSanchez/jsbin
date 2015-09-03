@@ -9,24 +9,24 @@ var libraries = [
   },
   {
 	'url': [
-		'https://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css',
-		'https://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js'
+		'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css',
+		'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js'
 		],
     'label': 'Leaflet 0.7.5',
     'group': 'Leaflet'
   },
   {
 	'url': [
-		'https://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
-		'https://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
+		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
+		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
 		],
     'label': 'Leaflet 0.7.4',
     'group': 'Leaflet'
   },
   {
 	'url': [
-		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css',
-		'http://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.js'
+    'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css',
+    'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'
 		],
     'label': 'Leaflet 0.7.3',
     'group': 'Leaflet'
