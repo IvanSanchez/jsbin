@@ -1,43 +1,52 @@
 var libraries = [
   {
-  'url': [
-    'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.css',
-    'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.js'
+    'url': [
+      'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.css',
+      'https://leafletjs-cdn.s3.amazonaws.com/content/build/master/leaflet.js'
     ],
     'label': 'Leaflet development version',
     'group': 'Leaflet'
   },
   {
-	'url': [
-		'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
-		'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js'
-		],
+    'url': [
+      'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
+      'https://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js'
+    ],
     'label': 'Leaflet 1.0.0-beta1',
     'group': 'Leaflet'
   },
   {
-	'url': [
-		'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css',
-		'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js'
-		],
+    'url': [
+      'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css',
+      'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js'
+    ],
     'label': 'Leaflet 0.7.5',
     'group': 'Leaflet'
   },
   {
-	'url': [
-		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
-		'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
-		],
+    'url': [
+      'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
+      'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
+    ],
     'label': 'Leaflet 0.7.4',
     'group': 'Leaflet'
   },
   {
-	'url': [
-    'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css',
-    'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'
-		],
+    'url': [
+      'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css',
+      'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'
+    ],
     'label': 'Leaflet 0.7.3',
     'group': 'Leaflet'
+  },
+
+  {
+    'url': [
+      'https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.js',
+      'https://api.mapbox.com/mapbox.js/v2.2.2/mapbox.css'
+    ],
+    'label': 'Mapbox.js 2.2.2',
+    'group': 'Mapbox.js'
   },
 
   {
