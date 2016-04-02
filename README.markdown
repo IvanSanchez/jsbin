@@ -1,3 +1,12 @@
+# Leaflet Playground
+
+The Leaflet Playground is a trivial rebrand of the JS Bin project, just to make Leaflet fiddles/bins/codepends quicker to create, by removing things we don't need, and adding all versions of Leaflet and some plugins to a drop-down, and changing the logo.
+
+
+---
+
+---
+
 # JS Bin
 
 JS Bin is an open source collaborative web development debugging tool.
