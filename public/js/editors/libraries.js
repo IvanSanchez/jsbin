@@ -2,15 +2,23 @@ var libraries = [
   {
     'url': [
       'https://leafletjs-cdn.s3.amazonaws.com/content/leaflet/master/leaflet.css',
-      'https://leafletjs-cdn.s3.amazonaws.com/content/leaflet/master/leaflet.js'
+      'https://leafletjs-cdn.s3.amazonaws.com/content/leaflet/master/leaflet-src.js'
     ],
     'label': 'Leaflet development version',
     'group': 'Leaflet'
   },
   {
     'url': [
+      'http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.css',
+	  'http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet-src.js'
+    ],
+    'label': 'Leaflet 1.0.0-rc1',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
       'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.js'
+	  'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-beta2',
     'group': 'Leaflet'
@@ -18,9 +26,17 @@ var libraries = [
   {
     'url': [
       'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.js'
+	  'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-beta1',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.css',
+      'http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.js'
+    ],
+    'label': 'Leaflet 0.7.7',
     'group': 'Leaflet'
   },
   {
@@ -56,6 +72,16 @@ var libraries = [
     'label': 'Mapbox.js 2.2.2',
     'group': 'Mapbox.js'
   },
+
+  {
+    'url': [
+      'https://ivansanchez.github.io/Leaflet.MandelbrotGL/dist/Leaflet.GridLayer.MandelbrotGL.js'],
+    'label': 'Leaflet.MandelbrotGL',
+    'group': 'Leaflet.MandelbrotGL'
+  },
+
+
+
 
   {
     'url': 'https://code.jquery.com/jquery-git.js',
