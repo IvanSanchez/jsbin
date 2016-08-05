@@ -9,8 +9,24 @@ var libraries = [
   },
   {
     'url': [
-      'http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet.css',
-	  'http://cdn.leafletjs.com/leaflet/v1.0.0-rc.1/leaflet-src.js'
+      'https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css',
+      'https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js'
+    ],
+    'label': 'Leaflet 1.0.0-rc3',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css',
+      'https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js'
+    ],
+    'label': 'Leaflet 1.0.0-rc2',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'https://npmcdn.com/leaflet@1.0.0-rc.1/dist/leaflet.css',
+      'https://npmcdn.com/leaflet@1.0.0-rc.1/dist/leaflet.js'
     ],
     'label': 'Leaflet 1.0.0-rc1',
     'group': 'Leaflet'
@@ -18,7 +34,7 @@ var libraries = [
   {
     'url': [
       'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet.css',
-	  'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet-src.js'
+      'http://cdn.leafletjs.com/leaflet/v1.0.0-beta.2/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-beta2',
     'group': 'Leaflet'
@@ -26,7 +42,7 @@ var libraries = [
   {
     'url': [
       'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet.css',
-	  'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet-src.js'
+      'http://cdn.leafletjs.com/leaflet-1.0.0-b1/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-beta1',
     'group': 'Leaflet'
