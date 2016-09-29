@@ -9,24 +9,32 @@ var libraries = [
   },
   {
     'url': [
-      'https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.css',
-      'https://npmcdn.com/leaflet@1.0.0-rc.3/dist/leaflet.js'
+      'https://unpkg.com/leaflet@1.0.0/dist/leaflet.css',
+      'https://unpkg.com/leaflet@1.0.0/dist/leaflet-src.js'
+    ],
+    'label': 'Leaflet 1.0.0',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet.css',
+      'https://unpkg.com/leaflet@1.0.0-rc.3/dist/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-rc3',
     'group': 'Leaflet'
   },
   {
     'url': [
-      'https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.css',
-      'https://npmcdn.com/leaflet@1.0.0-rc.2/dist/leaflet.js'
+      'https://unpkg.com/leaflet@1.0.0-rc.2/dist/leaflet.css',
+	  'https://unpkg.com/leaflet@1.0.0-rc.2/dist/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-rc2',
     'group': 'Leaflet'
   },
   {
     'url': [
-      'https://npmcdn.com/leaflet@1.0.0-rc.1/dist/leaflet.css',
-      'https://npmcdn.com/leaflet@1.0.0-rc.1/dist/leaflet.js'
+      'https://unpkg.com/leaflet@1.0.0-rc.1/dist/leaflet.css',
+	  'https://unpkg.com/leaflet@1.0.0-rc.1/dist/leaflet-src.js'
     ],
     'label': 'Leaflet 1.0.0-rc1',
     'group': 'Leaflet'
@@ -49,32 +57,32 @@ var libraries = [
   },
   {
     'url': [
-      'http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet-0.7.7/leaflet.js'
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/leaflet-src.js'
     ],
     'label': 'Leaflet 0.7.7',
     'group': 'Leaflet'
   },
   {
     'url': [
-      'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js'
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.5/leaflet-src.js'
     ],
     'label': 'Leaflet 0.7.5',
     'group': 'Leaflet'
   },
   {
     'url': [
-      'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet-0.7.4/leaflet.js'
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.4/leaflet.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.4/leaflet-src.js'
     ],
     'label': 'Leaflet 0.7.4',
     'group': 'Leaflet'
   },
   {
     'url': [
-      'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css',
-      'http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js'
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css',
+      'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet-src.js'
     ],
     'label': 'Leaflet 0.7.3',
     'group': 'Leaflet'
