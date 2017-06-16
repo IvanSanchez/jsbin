@@ -9,6 +9,30 @@ var libraries = [
   },
   {
     'url': [
+      'https://unpkg.com/leaflet@1.0.3/dist/leaflet.css',
+      'https://unpkg.com/leaflet@1.0.3/dist/leaflet-src.js'
+    ],
+    'label': 'Leaflet 1.0.3',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'https://unpkg.com/leaflet@1.0.2/dist/leaflet.css',
+      'https://unpkg.com/leaflet@1.0.2/dist/leaflet-src.js'
+    ],
+    'label': 'Leaflet 1.0.2',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
+      'https://unpkg.com/leaflet@1.0.1/dist/leaflet.css',
+      'https://unpkg.com/leaflet@1.0.1/dist/leaflet-src.js'
+    ],
+    'label': 'Leaflet 1.0.1',
+    'group': 'Leaflet'
+  },
+  {
+    'url': [
       'https://unpkg.com/leaflet@1.0.0/dist/leaflet.css',
       'https://unpkg.com/leaflet@1.0.0/dist/leaflet-src.js'
     ],
